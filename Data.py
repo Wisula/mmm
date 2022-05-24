@@ -64,7 +64,7 @@ Example : `/fsub -1001505616678` or `/forcesubscribe -1001375849192`
 
 A telegram force subscribing bot by @SLBotOfficial
 
-Source Code : [Click Here](https://github.com/DARKRMPIRESL/ForceSubscribeBot)
+Source Code : [Click Here](https://github.com/DARKEMPIRESL/ForceSubscribeBot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
