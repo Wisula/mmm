@@ -72,5 +72,5 @@ Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @ImDark_Empire
+Developer : @wisula4
     """
